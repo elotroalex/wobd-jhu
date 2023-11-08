@@ -4,11 +4,11 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-Thursday, December 7, 2023
+## Thursday, December 7, 2023
 
 ### 1:15PM--1:30PM | Welcome
 
-Welcome remarks by organizers organizers **Alex Gil** and **Kaiama Glover**.
+Welcome remarks by organizers organizers **Alex Gil** and **Kaiama Glover** (Yale University).
 
 ### 1:30PM--3:00PM | Opening Showcase
 
