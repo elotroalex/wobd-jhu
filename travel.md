@@ -33,7 +33,7 @@ Visit the [Yale visitor parking](https://your.yale.edu/work-yale/campus-service
 
 ## By Train or Bus
 
-Union Station is minutes from the Yale campus. [Metro-North]{.underline} offers frequent train service between New Haven and New York City. [Amtrak](https://www.amtrak.com/home.html) provides train service to New Haven from Vermont, Providence, and Boston to the north, and from Washington, D.C., to the south, at prices that are competitive with air travel. Union Station is also a [Greyhound](http://www.greyhound.com/home/) (203-772-2470) bus terminal. Once you reach Union Station, we suggest that you use a local taxi service to reach the Yale campus. (There's a taxi stand at the station.) A taxi will cost about \$10. Local shuttle and [bus services](http://www.cttransit.com/RoutesSchedules/SystemMapDisplay.asp) are also available for travel between Union Station and Yale.
+Union Station is minutes from the Yale campus. Metro-North offers frequent train service between New Haven and New York City. [Amtrak](https://www.amtrak.com/home.html) provides train service to New Haven from Vermont, Providence, and Boston to the north, and from Washington, D.C., to the south, at prices that are competitive with air travel. Union Station is also a [Greyhound](http://www.greyhound.com/home/) (203-772-2470) bus terminal. Once you reach Union Station, we suggest that you use a local taxi service to reach the Yale campus. (There's a taxi stand at the station.) A taxi will cost about \$10. Local shuttle and [bus services](http://www.cttransit.com/RoutesSchedules/SystemMapDisplay.asp) are also available for travel between Union Station and Yale.
 
 ## By Airplane
 
