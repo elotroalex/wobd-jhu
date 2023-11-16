@@ -12,6 +12,8 @@ Welcome remarks by organizers organizers **Alex Gil** and **Kaiama Glover** (Yal
 
 ### 1:30PM--3:00PM | Opening Showcase
 
+Moderator, **Tzarina Prater** (Bentley University)
+
 **Tania M. Ríos Marrero** (Digital Library of the Caribbean, University
 of Florida), "The Revitalizing dLOC Initiative (2022-2026)"
 
@@ -37,6 +39,8 @@ of Puerto Rico at Río Piedra), \"Las caras lindas de Santurce\"
 
 ### 4:30PM--6:00PM | Keynote Dialogue | Challenges in Caribbean DH
 
+Moderator, **Kaiama Glover** (Yale University)
+
 **Natasha J Lightfoot** (Columbia University)
 
 **Nicole Aljoe** (Northeastern University)
@@ -57,6 +61,8 @@ Opening remarks by organizer **Alex Gil** (Yale University).
 
 ### 9:30AM--11:00AM | Panel B: Collaboration
 
+Moderator, Laurent Dubois (University of Virginia)
+
 **Taller Entre Aguas\' Registro Project Team**, "Taller Entre Aguas: Theory and Praxis in the Digital Revisitation of
 the 1872 Registro de Esclavos of Puerto Rico\"
 
@@ -65,6 +71,8 @@ the 1872 Registro de Esclavos of Puerto Rico\"
 ### 11:00AM--11:15AM | Break
 
 ### 11:15AM--12:45PM | Panel C: Theory
+
+Moderator, Marlene Daut (Yale University)
 
 **Rachel M. Kirk** (Louisiana State University), "Sybil Kein, Climate Coloniality, and the Preservation of Louisiana Creole Culture in the
 Digital\"
@@ -78,6 +86,8 @@ Digital\"
 ### 12:45PM--1:45PM | Lunch
 
 ### 1:45PM--3:15PM | Panel D: Pedagogy
+
+Moderator, Schuyler Esprit (Create Caribbean)
 
 **Malisa Richards** (Dominica State College), \"Instructional Design Strategies for Integrating Virtual Reality Technology in the Computer Networking Curricula: Best Practices to Improve Student Learning Outcomes\"
 
@@ -120,5 +130,7 @@ the Study of the Legacies of British Slavery, University College London),
 **Anaridia Molina** (University of Michigan), \"Digitizing the Association of Caribbean Women Writers and Scholars' Archive\"
 
 ### 6:30PM--7:00PM | Microgrant Announcement & Closing Remarks
+
+**Alex Gil** and **Andreína Soto** present this year's recipients of the Caribbean Digital Scholarship Collective Microgrants program.
 
 ### 7:00PM--8:30PM | Closing Reception
