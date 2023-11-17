@@ -7,6 +7,10 @@ title: Travel
 
 New Haven, Connecticut is located in the heart of the Northeast Corridor, approximately 70 miles north of New York City and 150 miles south of Boston. Our small dense city of 130,000 includes a thriving downtown with parks, shops, museums, and restaurants, with easy access to beaches, hiking trails, and charming nearby towns.
 
+## Hotel Reservations
+
+The recommended hotel for The Caribbean Digital conference is [The Omni New Haven](https://www.omnihotels.com/hotels/new-haven-yale), where we have secured a group rate. To make a reservation at The Omni New Haven, please call the number is 800-843-6664.
+
 ## Driving Directions
 
 ### From Interstate 95
