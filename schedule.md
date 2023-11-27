@@ -6,7 +6,7 @@ permalink: /schedule/
 
 ## Thursday, December 7, 2023
 
-### HUMANITIES QUARTERLY 136
+### HUMANITIES QUADRANGLE 136
 
 ### 1:15PM--1:30PM | Welcome
 
@@ -57,7 +57,7 @@ Moderator, **Kaiama Glover** (Yale University)
 
 ## Friday, December 8, 2023
 
-### HUMANITIES QUARTERLY 136
+### HUMANITIES QUADRANGLE 136
 
 ### 9:00AM--9:15AM | Coffee
 
