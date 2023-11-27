@@ -6,11 +6,13 @@ permalink: /schedule/
 
 ## Thursday, December 7, 2023
 
+### HUMANITIES QUARTERLY 136
+
 ### 1:15PM--1:30PM | Welcome
 
 Welcome remarks by organizers organizers **Alex Gil** and **Kaiama Glover** (Yale University).
 
-### 1:30PM--3:00PM | Opening Showcase
+### 1:30PM--2:30PM | Opening Showcase
 
 Moderator, **Tzarina Prater** (Bentley University)
 
@@ -25,9 +27,11 @@ Puerto Rico at Río Piedra), "Acervos Documentales de Puerto Rico y el Caribe"
 **Valeria Acevedo Argüelles** and **Pat Santalices Torres** (University
 of Puerto Rico at Río Piedra), \"Las caras lindas de Santurce\"
 
-### 3:00PM--3:15PM | Break
+### 2:30PM--2:45PM | Break
 
-### 3:15PM--4:15PM | Panel A: Archives
+### 2:45PM--3:45PM | Panel A: Archives
+
+Moderator: **Kelly Baker Josephs** (University of Miami)
 
 **Rebecca Roach** (University of Birmingham), \"Brathwaite's Creole Computing\"
 
@@ -35,23 +39,25 @@ of Puerto Rico at Río Piedra), \"Las caras lindas de Santurce\"
 
 **Ocean V. Arboniés Flores** (University of Illinois), \"The Forgotten 'Digital Familia de Puerto Rico': Towards an Archival Recovery of Conveniently Absent Histories of Digital Technology in the Caribbean\"
 
-### 4:15PM--4:30PM | Break
+### 3:45PM--4:00PM | Break
 
-### 4:30PM--6:00PM | Keynote Dialogue | Challenges in Caribbean DH
+### 4:00PM--5:30PM | Keynote Dialogue | Challenges in Caribbean DH
 
 Moderator, **Kaiama Glover** (Yale University)
 
-**Natasha J Lightfoot** (Columbia University)
+**Natasha J. Lightfoot** (Columbia University)
 
 **Nicole Aljoe** (Northeastern University)
 
-### 6:00PM--7:00PM | Opening Reception
+### 5:30PM--7:00PM | Opening Reception
 
-**Ruben Cabenda**, Artis in Residence presentation
+**Ruben Cabenda**, Artist in Residence presentation
 
 ---
 
 ## Friday, December 8, 2023
+
+### HUMANITIES QUARTERLY 136
 
 ### 9:00AM--9:15AM | Coffee
 
@@ -61,7 +67,7 @@ Opening remarks by organizer **Alex Gil** (Yale University).
 
 ### 9:30AM--11:00AM | Panel B: Collaboration
 
-Moderator, Laurent Dubois (University of Virginia)
+Moderator, **Laurent Dubois** (University of Virginia)
 
 **Taller Entre Aguas\' Registro Project Team**, "Taller Entre Aguas: Theory and Praxis in the Digital Revisitation of
 the 1872 Registro de Esclavos of Puerto Rico\"
@@ -72,7 +78,7 @@ the 1872 Registro de Esclavos of Puerto Rico\"
 
 ### 11:15AM--12:45PM | Panel C: Theory
 
-Moderator, Marlene Daut (Yale University)
+Moderator, **Marlene Daut** (Yale University)
 
 **Rachel M. Kirk** (Louisiana State University), "Sybil Kein, Climate Coloniality, and the Preservation of Louisiana Creole Culture in the
 Digital\"
@@ -87,7 +93,7 @@ Digital\"
 
 ### 1:45PM--3:15PM | Panel D: Pedagogy
 
-Moderator, Schuyler Esprit (Create Caribbean)
+Moderator, **Schuyler Esprit** (Create Caribbean)
 
 **Malisa Richards** (Dominica State College), \"Instructional Design Strategies for Integrating Virtual Reality Technology in the Computer Networking Curricula: Best Practices to Improve Student Learning Outcomes\"
 
@@ -103,6 +109,8 @@ the Study of the Legacies of British Slavery, University College London),
 
 ### 3:30PM--5:00PM | Panel E: Practice
 
+Moderator, **Vincent Brown** (Harvard University)
+
 **Kaillee Coleman** (Tulane University), \"When I Am Not Here, Estoy Allá: Visualizing Expansive Space-Time in Caribbean Diasporic Memory\"
 
 **Yveline Alexis** (Oberlin College), "Haiti versus US Empire"
@@ -113,11 +121,13 @@ the Study of the Legacies of British Slavery, University College London),
 
 ### 5:00PM--5:15PM | Break
 
-### 5:15PM--5:35PM | Artist/Scholar Conversation
+### 5:15PM--5:35PM | Special: Artist/Scholar Conversation
 
 **Alicia Doyen-Rodríguez** (Emory University), \"Empreintes d\'art dans la ville (Art footprints in the city): digital collaboration with Guy Gabon\"
 
 ### 5:45PM--6:30PM | Microgrant Showcase
+
+Moderator, **Alex Gil** (Yale University)
 
 **Maria Corredor** and **Ernesto Bassi** (Cornell University), "Atlantic Seascapes"
 
@@ -131,6 +141,6 @@ the Study of the Legacies of British Slavery, University College London),
 
 ### 6:30PM--7:00PM | Microgrant Announcement & Closing Remarks
 
-**Alex Gil** and **Andreína Soto** present this year's recipients of the Caribbean Digital Scholarship Collective Microgrants program.
+**Alex Gil** and **Andreína Soto** present this year's recipients of the Caribbean Digital Scholarship Collective Microgrants program. Sending us off to celebrate time well-spent, organizer **Kelly Baker Josephs** closes the conference with her remarks.
 
 ### 7:00PM--8:30PM | Closing Reception
