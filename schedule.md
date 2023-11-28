@@ -10,7 +10,7 @@ permalink: /schedule/
 
 ### 1:15PM--1:30PM | Welcome
 
-Welcome remarks by organizers organizers **Alex Gil** and **Kaiama Glover** (Yale University).
+Welcome remarks by organizers **Alex Gil** and **Kaiama Glover** (Yale University).
 
 ### 1:30PM--2:30PM | Opening Showcase
 
