@@ -4,9 +4,9 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-## Thursday, December 7, 2023
+## Thursday, March 29, 2024
 
-### HUMANITIES QUADRANGLE 136
+### Charles Commons 
 
 ### 1:15PM--1:30PM | Welcome
 
