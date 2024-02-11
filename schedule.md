@@ -43,4 +43,4 @@ Livestreaming link: **TBA** (virtual option will be available)
 
 #### Location: NoMüNoMü 709 Howard Street Baltimore MD
 
-This public symposium will conclude with a keynote conversation led by **Jennifer Morgan** (New York University), ** Dorothy Berry** (Smithsonian National Museum of African American History and Culture), and **Bliphena Yawhon** (Archive Liberia) and a bomb workshop and bombazo hosted by **Semila Cultural**.
+This public symposium will conclude with a keynote conversation led by **Jennifer Morgan** (New York University), **Dorothy Berry** (Smithsonian National Museum of African American History and Culture), and **Bliphena Yawhon** (Archive Liberia) and a bomb workshop and bombazo hosted by **Semila Cultural**.
