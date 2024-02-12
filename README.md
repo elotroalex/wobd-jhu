@@ -1,2 +1,2 @@
-# tcd2022
-TCD 9 conference site
+# wobd2024
+Who Owns Black Data conference site
