@@ -15,7 +15,7 @@ The recommended hotel for Who Owns Black Data: Slavery & Data is [The Study at J
 
 ### From I-95 (southbound) or from I-695 (the Baltimore Beltway)
 
-Take the beltway toward Towson to exit 25. Take Charles Street south for about 6 miles. When Charles Street splits a block after Loyola College and Cold Spring Lane, take a slight left onto St. Paul.  Continue southbound on St Paul for about 1.2 miles. Take a right on 33rd Street. Take a right on Charles Street. The dormitory is at the corner of 33rd and Charles Street.
+Take the beltway toward Towson to exit 25. Take Charles Street south for about 6 miles. When Charles Street splits a block after Loyola College and Cold Spring Lane, take a slight left onto St. Paul. Continue southbound on St Paul for about 1.2 miles. Take a right on 33rd Street. Take a right on Charles Street. The dormitory is at the corner of 33rd and Charles Street.
 
 ### From I-95 (northbound)
 
@@ -36,19 +36,23 @@ available parking.
 
 _On-street metered parking_ is available almost everywhere. *Off-street parking* is also available nearby. The Chapel-York Garage (65 Grove Street) is a private parking garages located within walking distance of the Humanities Quadrangle.
 
-Visitor parking is available in several locations around campus. Visit [Transportation Services](https://jhfre.jhu.edu/ts/parking) for more information about parking locations and rates. Please allow time to park prior to your visit. 
+Visitor parking is available in several locations around campus. Visit [Transportation Services](https://jhfre.jhu.edu/ts/parking) for more information about parking locations and rates. Please allow time to park prior to your visit.
 
 ## By Train or Bus
 
-Scott-Bates Commons (formerly Charles Commons) is approximately 2 miles from the train station. Transportation to and from the dormitory facilities is available through the [BWI Shuttle Service](http://www.bwiairport.com/en/travel/ground-transportation/trans/supershuttle) and [Taxi Service](http://www.bwiairport.com/en/travel/ground-transportation/trans/taxi). [Amtrak](https://www.amtrak.com/home.html) provides train service to Baltimore from New York City, Boston, Newwark, Philadelphia, and Washington, D.C., at prices that are competitive with air travel. Participants can also use Lyft. Shuttle Information is Forthcoming. 
+Scott-Bates Commons (formerly Charles Commons) is approximately 2 miles from the train station. Transportation to and from the dormitory facilities is available through the [BWI Shuttle Service](http://www.bwiairport.com/en/travel/ground-transportation/trans/supershuttle) and [Taxi Service](http://www.bwiairport.com/en/travel/ground-transportation/trans/taxi). [Amtrak](https://www.amtrak.com/home.html) provides train service to Baltimore from New York City, Boston, Newark, Philadelphia, and Washington, D.C., at prices that are competitive with air travel. Once at the train station, you can take a University Shuttle to campus. The hotel is right across the shuttle stop on Charles Street ([Stop No.7](https://jhfre.jhu.edu/wp-content/uploads/2023/08/Copy-of-HW-PB-JHMI.pdf)). Another option is a taxi or car ride directly to The Study.
 
 ## By Airplane
 
 ### Baltimore/Washington International Thurgood Marshall Airport
 
-(BWI) is approximately a 45-minute drive to JHU
+This is probably the best option for national flights. BWI is approximately a 45-minute drive to JHU. The airport is served by all major domestic carriers and is a hub for Southwest Airlines. Once you arrive, you have several transportation options to get to The Study.
 
-- **Ronald Reagan Washington National Airport** (DCA), is about a 60-minute drive to campus.
-- **Dulles International Airport** (IAD) is about a 90-minute drive to campus.
-- **Newark International Airport** (EWR), 92 miles from campus in Newark,
-  NJ.  
+- [Super Shuttle](http://www.supershuttle.com/) serving BWI, Reagan/National and Dulles.
+- [The Airport Shuttle](http://www.theairportshuttle.com/) serving BWI, Reagan/National and Dulles.
+- [MTA/Baltimore Light Rail](https://mta.maryland.gov/light-rail) serving BWI in a limited capacity.
+- Uber or Lyft, or taxi services are available at the airport.
+
+### Dulles International Airport
+
+For international flights, you might want to consider IAD. IAD is about a 90-minute drive to campus. The airport is served by all major domestic and international carriers.
