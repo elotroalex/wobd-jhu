@@ -10,33 +10,6 @@ permalink: /schedule/
 
 #### Scotts-Bates Commons 3301 N. Charles Street Baltimore, MD
 
-### Featuring: 
-
-* 10 Million Names
-* African Diaspora Alliance 
-* Archipelagos of Marronage 
-* Black Louisiana History Incubators 
-* The Black Testimony Project 
-* The Caribbean Digital 
-* The Colored Conventions Project 
-* The Criadas Project 
-* First Blacks 
-* Freedom on the Move 
-* Haitian Revolutionary Fictions 
-* Ink, Sweat, & Tears 
-* Keywords for Black Louisiana 
-* Kinfolkology 
-* New Generation Scholars 
-* The Registro Project 
-* Remains//An Archive 
-* Smallpox and Slavery 
-* Texas Domestic Slave Trade Project 
-* The Texas Freedom Colonies Project 
-* (Un)silencing Slavery 
-* Underwriting Souls
-
-And more! 
-
 Livestreaming link: **TBA** (virtual option will be available)
 
 ### 6:00 PM--9:00 PM | **Keynote Conversation & Bombazo**
