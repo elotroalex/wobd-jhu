@@ -9,7 +9,7 @@ Baltimore, Maryland is situated in the heart of the Mid-Atlantic region, approxi
 
 ## Hotel Reservations
 
-The recommended hotel for Who Owns Black Data: Slavery & Data is [name/link] where we have secured a group rate. To make a reservation at [hotel], please call the number is [number].
+The recommended hotel for Who Owns Black Data: Slavery & Data is [The Study at Johns Hopkins](https://www.thestudyatjohnshopkins.com) where we have secured a group rate. To make a reservation at The Study, please call the number is 1-410-243-0030.
 
 ## Driving Directions
 
@@ -40,7 +40,7 @@ Visitor parking is available in several locations around campus. Visit [Transpor
 
 ## By Train or Bus
 
-Scott-Bates Commons (formerly Charles Commons) is approximately 2 miles from the train station. Transportation to and from the dormitory facilities is available through the [BWI Shuttle Service](http://www.bwiairport.com/en/travel/ground-transportation/trans/supershuttle) and [Taxi Service](http://www.bwiairport.com/en/travel/ground-transportation/trans/taxi). [Amtrak](https://www.amtrak.com/home.html) provides train service to Baltimore from New York City, Boston, Newwark, Philadelphia, and Washington, D.C., at prices that are competitive with air travel. Participants can also use Lyft or the free [Charm City Circulator](https://transportation.baltimorecity.gov/charm-city-circulator). 
+Scott-Bates Commons (formerly Charles Commons) is approximately 2 miles from the train station. Transportation to and from the dormitory facilities is available through the [BWI Shuttle Service](http://www.bwiairport.com/en/travel/ground-transportation/trans/supershuttle) and [Taxi Service](http://www.bwiairport.com/en/travel/ground-transportation/trans/taxi). [Amtrak](https://www.amtrak.com/home.html) provides train service to Baltimore from New York City, Boston, Newwark, Philadelphia, and Washington, D.C., at prices that are competitive with air travel. Participants can also use Lyft. Shuttle Information is Forthcoming. 
 
 ## By Airplane
 
