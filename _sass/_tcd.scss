@@ -97,6 +97,27 @@ p {
   }
 }
 
+div.featured {
+  text-align: center;
+}
+
+div.featured p {
+  font-size: 1.6rem;
+}
+
+p.panel-name {
+  margin-top: 1rem;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 1.6rem;
+}
+
+h3.day-section {
+  color: $brand-color;
+  font-size: 2rem;
+  font-weight: 200;
+}
+
 p,
 ul {
   @include media-query($on-palm) {
@@ -106,6 +127,7 @@ ul {
 
 hr {
   margin: 1rem;
+  color: #CFF9F8;
 }
 
 /* SITE HEADER */

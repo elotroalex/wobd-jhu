@@ -6,132 +6,142 @@ permalink: /schedule/
 
 ## Thursday, March 28, 2024
 
-### **_Invite Only Write-In Event and Community Workshop_**
+<h3 class="day-section">Write-In Event and Community Workshop (Invite Only)</h3>
 
-#### All Events at Morgan State Univeristy 
+❖ Location: Morgan State Univeristy ❖
 
-**9:30am--10:00am**
+<br>
 
-Welcome x Coffee/Breakfast 
+#### 9:30am--10:00am
 
-**10:00am--11:00am**
+Welcome x Coffee/Breakfast
 
-**Community Workshop** **_Liberation Seeds: Baltimore Youth Centered Community Organizations Share Lessons Learned_**
+#### 10:00am--11:00am
 
-Muse360 x African Diasopora Alliance 
+"Liberation Seeds: Baltimore Youth Centered Community Organizations Share Lessons Learned" ❖ Community Workshop by **Muse360** x **African Diaspora Alliance**
 
-Founder of Muse 360, Sharayna Christmas and Co-Founder of The Youth of The Diaspora, Moriah Ray, share their experiences working with youth and young adults teaching African Diaspora history. Both organizations use a variety of methods including the creative arts and funded international Diaspora exchanges. The organizers will share lessons learned and the impact of creating and implementing African-centered coursework as a mental health invervention for Black youth. Christmas and Ray will facilitate a guided conversation about the importance of youth-centered community organizing and bridging the gap between academic institutions and grassroots organizations. 
+Founder of **Muse 360**, Sharayna Christmas and Co-Founder of **The Youth of The Diaspora**, Moriah Ray, share their experiences working with youth and young adults teaching African Diaspora history. Both organizations use a variety of methods including the creative arts and funded international Diaspora exchanges. The organizers will share lessons learned and the impact of creating and implementing African-centered coursework as a mental health invervention for Black youth. Christmas and Ray will facilitate a guided conversation about the importance of youth-centered community organizing and bridging the gap between academic institutions and grassroots organizations.
 
-**12:00pm--1:00pm**
+#### 12:00pm--1:00pm
 
-**Lunch (sponsored by the Diasporas Solidarities Lab)**
+Lunch (sponsored by the **Diasporas Solidarities Lab**)
 
-**1:00pm--4:00pm**
+#### 1:00pm--4:00pm
 
-**Who Owns Black Data? Slavery and Data Ethics White Paper Write-In Session**
+"Who Owns Black Data?" ❖ Slavery and Data Ethics White Paper Write-In Session
 
-**4:00pm--6:00pm**
+#### 4:00pm--6:00pm
 
-**Break/Dinner on your own**
+Break/Dinner on your own
 
-**6:00pm--8:00pm**
+#### 6:00pm--8:00pm
 
-**African Diaspora Film Screening with Filmmakers**
+African Diaspora Film Screening with Filmmakers ❖ Hosted by **African Diaspora Alliance**
 
-Hosted by African Diaspora Alliance
+<br>
+
+---
+
+<br>
 
 ## Friday, March 29, 2024
 
-### Public Symposium 9:00 AM--5:00 PM
+<h3 class="day-section">Public Symposium</h3>
 
-#### Scotts-Bates Commons 3301 N. Charles Street Baltimore, MD
+❖ Location: Scotts-Bates Commons, 3301 N. Charles Street Baltimore, MD ❖
 
-**9:00am**
+<br>
 
-**Welcome x Coffee/Breakfast**
+#### 9:00am
 
-**9:15am--10:30am**
+Welcome x Coffee/Breakfast
 
-**SESSION ONE:DATA**
+#### 9:15am--10:30am
 
-* Archipelagos of Marronage 
-* The Criadas Project (Taller Entre Aguas)
-* Early Caribbean Digital Archive
-* Keywords for Black Louisiana
-* Texas Domestic Slave Trade Project 
-* Smallpox and Slavery in the Early Modern Atlantic World: A Digital History 
+<p class="panel-name">Data</p>
 
-*Moderator: Alexandre White*
+**Archipelagos of Marronage**
+❖ **The Criadas Project (Taller Entre Aguas)**
+❖ **Early Caribbean Digital Archive**
+❖ **Keywords for Black Louisiana**
+❖ **Texas Domestic Slave Trade Project**
+❖ **Smallpox and Slavery in the Early Modern Atlantic World: A Digital History**
 
-**10:30am--10:45am BREAK**
+Moderator: **Alexandre White**
 
-**10:45am--12:00pm**
+#### 10:30am--10:45am
 
-**SESSION TWO: SLAVERY**
+BREAK
 
-* Freedom on the Move
-* The Nelson Hackett Project 
-* (Un)Silincing Slavery 
-* The Black Testimony Project 
-* First Blacks 
-* Haitian Revolutionary France 
-* Remains // An Archive 
+#### 10:45am--12:00pm
 
-*Moderator: Alex Gil*
+<p class="panel-name">Slavery</p>
 
-**12:00pm--2:00pm**
+**Freedom on the Move**
+❖ **The Nelson Hackett Project**
+❖ **(Un)Silencing Slavery**
+❖ **The Black Testimony Project**
+❖ **First Blacks**
+❖ **Haitian Revolutionary France**
+❖ **Remains // An Archive**
 
-**Lunch** 
+Moderator: **Alex Gil**
 
-Catered Lunch for participants only (Blacksauce Kitchen sponsored by the Center for Africana Studies)
+#### 12:00pm--2:00pm
 
-**2:00pm--3:15pm**
+Catered Lunch for participants ❖ **Blacksauce Kitchen** ❖ Sponsored by the **Center for Africana Studies**
 
-**SESSION THREE: REPARATIONS**
+#### 2:00pm--3:15pm
 
-* 10 Million Names
-* Black Louisiana History Incubators 
-* Colored Conventions Project 
-* Kinfolkology 
-* The Registro Project (Taller Entre Aguas)
-* The Texas Freedom Colonies Project 
-* Underwriting Souls 
+<p class="panel-name">REPARATIONS</p>
 
-*Moderator: Jessica Marie Johnson*
+**10 Million Names**
+❖ **Black Louisiana History Incubators**
+❖ **Colored Conventions Project**
+❖ **Kinfolkology**
+❖ **The Registro Project (Taller Entre Aguas)**
+❖ **The Texas Freedom Colonies Project**
+❖ **Underwriting Souls**
 
-**3:30pm--4:30pm**
+Moderator: **Jessica Marie Johnson**
 
-**SESSION 4: WHERE DO WE GO FROM HERE**
+#### 3:30pm--4:30pm
 
-Reflections on slavery, data, ethics, and reparations and the conversations of the day. 
+<p class="panel-name">WHERE DO WE GO FROM HERE</p>
 
-* Nadejda Webb
-* Alexandre White 
-* Alex Gil 
-* Jessica Marie Johnson
+Reflections on slavery, data, ethics, and reparations and the conversations of the day.
 
-*Moderator: Audience*
+**Nadejda Webb**
+❖ **Alexandre White**
+❖ **Alex Gil**
+❖ **Jessica Marie Johnson**
 
-**4:30pm--6:00pm**
+Moderator: **Audience**
 
-**Break/Transition to NoMüNoMü**
+#### 4:30pm--6:00pm
 
-### 6:00 PM--9:00 PM | **Keynote Conversation & Bombazo**
+Break/Transition to NoMüNoMü
 
-#### Location: NoMüNoMü 709 Howard Street Baltimore MD
+👣 👣 👣
 
-**6:00pm--7:00pm**
+<h3 class="day-section">Keynote Conversation & Bombazo</h3>
 
-**Keynote Conversation**
+❖ Location: NoMüNoMü 709 Howard Street Baltimore MD ❖
 
-* Dorothy Berry (Smithsonian National Museum of African American History and Culture)
-* Jennifer Morgan (New York Univeristy)
-* Bilphena Yahwon (Archive Liberia)
+<br>
 
-*Moderator: Nadejda Webb*
+#### 6:00pm--7:00pm
 
-**7:30pm--9:00pm**
+<p class="panel-name">Keynote Conversation</p>
 
-**Bomba Workshop with Semilla Cultural**
+**Dorothy Berry** (Smithsonian National Museum of African American History and Culture)
+❖ **Jennifer Morgan** (New York Univeristy)
+❖ **Bilphena Yahwon** (Archive Liberia)
 
-Semilla Cultural is a non-profit organization developing and cultivating a community that embraces Puerto Rican culture and arts in Washington DC, Maryland, and Virgina region. We focus on raising cultural awareness by teaching and performing the Puerto Rican musical genres of Bomba and Plena, as well as educating the community as to the histoircal events that shaped this music. More information can be found [here](https://semillacultural.org/#about-section).
+Moderator: **Nadejda Webb**
+
+#### 7:30pm--9:00pm
+
+<p class="panel-name">Bomba Workshop</p>
+
+Bombazo hosted by **Semilla Cultural**, a non-profit organization developing and cultivating a community that embraces Puerto Rican culture and arts in Washington DC, Maryland, and Virgina region. We focus on raising cultural awareness by teaching and performing the Puerto Rican musical genres of Bomba and Plena, as well as educating the community as to the histoircal events that shaped this music. More information can be found [here](https://semillacultural.org/#about-section).
