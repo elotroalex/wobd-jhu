@@ -17,7 +17,7 @@ When we sent out invitations, we asked a big question to our guests: **Who owns 
 - What further implications should we consider when data about Black people, particularly enslaved people, is commodified, monetized or used as leverage within current regimes of private property?
 - How do we begin to connect these questions to the role that ownership and property have played in Black History?
 
-We asked our guests to give us preliminary answers to any of the questions that grabbed them to help our conversation start before we arrive in Baltimore at the end of March. Some of our guests answered our call. Now we invite you, our audience, to read their answers and provide us yours in the comment section at the end of the page [add an internal link].
+We asked our guests to give us preliminary answers to any of the questions that grabbed them to help our conversation start before we arrive in Baltimore at the end of March. Some of our guests answered our call. Now we invite you, our audience, to read their answers and provide us yours in the comment section [at the end of the page](#comments).
 
 <br>
 
@@ -217,9 +217,17 @@ I don’t know if there is a definitive answer to of ownership but adopting an a
 
 This is the thing. Working in the context of Britain, so many archives that have not been examined by researchers or are in private or corporate hands. Recently and especially since the murder of George Floyd, there has been a significant historical reckoning in Britain with its historic role in the trans-Atlantic slave trade. This has led to several private collections, including Lloyd’s, the Bank of England and the Crown to open up or be open to allowing researchers into these archives. The key question for me is if they still control access they can also refuse it at any time. Control is the same as ownership and for a nation that refuses to reflect on the central role that slavery played to making their world, a view that continues to erase Black life and presence from British history, this remains a problem and one we tried to navigate.
 
+<br>
+
 ---
 
+<br>
+
 {% if page.comments %}
+
+<h2 id="comments">What do you think?</h2>
+
+To leave us a comment below, you should create an account with Disqus if you don't have one already, so we know who you are.
 
 <div id="disqus_thread"></div>
 <script>
