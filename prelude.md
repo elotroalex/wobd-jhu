@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Prelude
+comments: true
 ---
 
 # The Prelude
@@ -215,6 +216,32 @@ I don’t know if there is a definitive answer to of ownership but adopting an a
 **Who controls access to data about slavery?**
 
 This is the thing. Working in the context of Britain, so many archives that have not been examined by researchers or are in private or corporate hands. Recently and especially since the murder of George Floyd, there has been a significant historical reckoning in Britain with its historic role in the trans-Atlantic slave trade. This has led to several private collections, including Lloyd’s, the Bank of England and the Crown to open up or be open to allowing researchers into these archives. The key question for me is if they still control access they can also refuse it at any time. Control is the same as ownership and for a nation that refuses to reflect on the central role that slavery played to making their world, a view that continues to erase Black life and presence from British history, this remains a problem and one we tried to navigate.
+
+---
+
+{% if page.comments %}
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://wobd.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+{% endif %}
 
 ---
 
