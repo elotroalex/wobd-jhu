@@ -21,6 +21,24 @@ We asked our guests to give us preliminary answers to any of the questions that 
 
 <br>
 
+## Colored Conventions Project
+
+**What happens when data about Black people and historical figures is created or curated by people who are not Black?**
+
+At the **Colored Conventions Project** and the **Center for Black Digital Research/#DigBlk**, we believe that not having cultural descendants involved in the curation of the history and data that emerge from their communities runs the risk that such efforts and initiatives will be decontextualized and deracinated. Public projects that center Black histories have a responsibility to create and curate data about Black communities and figures with attention to descendant communities in leadership, participation, and partnerships. Our project principles articulate our goals and commitments in this way: “Principle 5: We affirm the role of Black people as data creators and elevate the ways in which Black conventions generated data and statistics to advance, affirm and advocate for Black economic and organizational success and access. We also recognize that data has long served in the processes and recording of the destruction and devaluation of Black lives and communities. We seek to avoid exploiting Black subjects as data and to account for the contexts out of which Black subjects as data arise. We seek to name Black people and communities as an affirmation of the Black humanity inherent in Black data/curation. We remind ourselves that all data and datasets are shaped by decisions about whose histories are recorded, remembered, and valued.”
+
+To establish cross-communities of trust, it’s worth asking that projects articulate and share their project values and who is involved in their work. Projects without faces, without names, and without project principles, are too often projects without accountability or connection.
+
+CCP is one of three sibling projects Douglass Day and the early Black Women’s Organizing Archive (BWOA) housed in the Center for Black Digital Research/#DigBlk. We practice that as a principle of action and as a public-facing principle: DigBlk Principle 7 states: “#DigBlk advances its work through partnerships grounded in shared commitments to Black history, learning, and life. We partner with Black organizations, communities, and institutions that honor engagement with Black legacy and descendent communities.” In other words, to be most useful, to be most liberatory, data and history must be connected and enlivened by connections to the present and legible to connected communities. As a result, our efforts as a center of Black digital research connect to the important ways our communities have preserved history and health historically, that is through the arts. In our principles, we share that “#DigBlk affirms that Black artists and cultural makers sustain Black joy, health, and futures. We work with Black artists and arts organizations to preserve and share these histories.”
+
+**How do we begin to connect these questions to the role that ownership and property have played in Black History?**
+
+Black people subjected to enslavement have historically been–and continue to be–treated and valued as the property of those protected and recognized by the state, or, in the afterlives of slavery, as property of the state. The ledger/manifest and its relative the spreadsheet have been used to disembody and alienate personhood; the language of metadata and cataloging also reinforces and refers to “objects” not subjects which members of our team and many others involved in DH have written about at great length.
+
+The Center for Black Digital Research/#DigBlk thus asserts in our public facing principles (#4): “#DigBlk actively resists the reduction of Black life to mere data points and refuses to traffic in disembodied data. We preserve context and collectives by naming Black people whenever possible. Our use of digital technologies is committed to affirming the dignity of Black life by expanding access to scattered Black histories and by sharing knowledge which documents and contributes to Black historical understanding.”
+
+<br>
+
 ## Lissette Acosta Corniel
 
 <span class="byline">BMCC/CUNY ❖ First Blacks in the Americas</span>
