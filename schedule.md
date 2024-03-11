@@ -6,7 +6,7 @@ permalink: /schedule/
 
 ## Thursday, March 28, 2024
 
-<h3 class="day-section">Write-In Event and Community Workshop (Invite Only)</h3>
+<h3 class="day-section">Community Workshop and Write-In Event</h3>
 
 ❖ Location: Morgan State Univeristy ❖
 
@@ -37,6 +37,8 @@ Break/Dinner on your own
 #### 6:00pm--8:00pm
 
 African Diaspora Film Screening with Filmmakers ❖ Hosted by **African Diaspora Alliance**
+
+The OMELORA Film Festival is a night of films in service to our people. The preservation of stories throughout the Diaspora and the creative telling of them through film is part of what keeps us alive through time and space. These short films span different genres and time periods but together these filmmakers help us to understand the legacy of not only slavery and data but also resistance. These films are reminders that we have found ways to reclaim our power against all odds, connect with nature, and use our creativity to carve out new ways of being and living when nothing else seemed possible. Featuring artists and filmmakers from Baltimore, Chicago, and the Caribbean this festival brings answers to century-old questions. It is with great pride that we present these films to you and we ask that you watch them with an open mind and heart.
 
 <br>
 
