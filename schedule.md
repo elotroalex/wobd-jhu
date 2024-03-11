@@ -6,9 +6,9 @@ permalink: /schedule/
 
 ## Thursday, March 28, 2024
 
-<h3 class="day-section">Community Workshop and Write-In Event</h3>
+<h3 class="day-section">Pre-Symposium Events</h3>
 
-❖ Location: Morgan State Univeristy ❖
+❖ Location: Morgan State University ❖
 
 <br>
 
@@ -18,17 +18,21 @@ Welcome x Coffee/Breakfast
 
 #### 10:00am--11:00am
 
+❖ Location: Martin D. Jenkins Hall, Room 512-514 ❖
+
 "Liberation Seeds: Baltimore Youth Centered Community Organizations Share Lessons Learned" ❖ Community Workshop by **Muse360** x **African Diaspora Alliance**
 
 Founder of **Muse 360**, Sharayna Christmas and Co-Founder of **The Youth of The Diaspora**, Moriah Ray, share their experiences working with youth and young adults teaching African Diaspora history. Both organizations use a variety of methods including the creative arts and funded international Diaspora exchanges. The organizers will share lessons learned and the impact of creating and implementing African-centered coursework as a mental health invervention for Black youth. Christmas and Ray will facilitate a guided conversation about the importance of youth-centered community organizing and bridging the gap between academic institutions and grassroots organizations.
 
-#### 12:00pm--1:00pm
+<a href="https://liberationseeds.eventbrite.com" target="_blank"><button>Register Here</button></a>
 
-Lunch (sponsored by the **Diasporas Solidarities Lab**)
+<!-- #### 12:00pm--1:00pm
+
+Lunch for Invited Project Teams (sponsored by the **Diasporas Solidarities Lab**) -->
 
 #### 1:00pm--4:00pm
 
-"Who Owns Black Data?" ❖ Slavery and Data Ethics White Paper Write-In Session
+(Invite Only) "Who Owns Black Data?" ❖ Slavery and Data Ethics White Paper Write-In Session
 
 #### 4:00pm--6:00pm
 
@@ -36,9 +40,15 @@ Break/Dinner on your own
 
 #### 6:00pm--8:00pm
 
-African Diaspora Film Screening with Filmmakers ❖ Hosted by **African Diaspora Alliance**
+❖ Location: Martin D. Jenkins Hall, Room 100 ❖
+
+African Diaspora Film Screening with Filmmakers ❖ Hosted by **African Diaspora Alliance** ❖ **Elu Omelora**, CoFounder of The African Diaspora Alliance ❖
+**Moriah Ray**, CoFounder of The African Diaspora Alliance ❖
+**Nia Hampton** (The Black Femme Supremacy Film Festival)
 
 The OMELORA Film Festival is a night of films in service to our people. The preservation of stories throughout the Diaspora and the creative telling of them through film is part of what keeps us alive through time and space. These short films span different genres and time periods but together these filmmakers help us to understand the legacy of not only slavery and data but also resistance. These films are reminders that we have found ways to reclaim our power against all odds, connect with nature, and use our creativity to carve out new ways of being and living when nothing else seemed possible. Featuring artists and filmmakers from Baltimore, Chicago, and the Caribbean this festival brings answers to century-old questions. It is with great pride that we present these films to you and we ask that you watch them with an open mind and heart.
+
+<a href="https://www.eventbrite.com/e/the-african-diaspora-alliance-bfsfilmfest-present-omelora-tickets-858292194057" target="_blank"><button>Register Here</button></a>
 
 <br>
 

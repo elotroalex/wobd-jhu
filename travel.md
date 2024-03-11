@@ -9,7 +9,7 @@ Baltimore, Maryland is situated in the heart of the Mid-Atlantic region, approxi
 
 ## Hotel Reservations
 
-The recommended hotel for Who Owns Black Data: Slavery & Data is [The Study at Johns Hopkins](https://www.thestudyatjohnshopkins.com) where we have secured a group rate. To make a reservation at The Study, please call the number is 1-410-243-0030.
+The recommended hotel for Who Owns Black Data: Slavery & Data is [The Study at Johns Hopkins](https://www.thestudyatjohnshopkins.com). To make a reservation at The Study, please call the number is 1-410-243-0030.
 
 ## Driving Directions
 
