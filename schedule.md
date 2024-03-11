@@ -79,13 +79,13 @@ BREAK
 
 <p class="panel-name">Slavery</p>
 
-**Freedom on the Move**
-❖ **The Nelson Hackett Project**
-❖ **(Un)Silencing Slavery**
-❖ **The Black Testimony Project**
+**The Black Testimony Project**
 ❖ **First Blacks**
+❖ **Freedom on the Move**
 ❖ **Haitian Revolutionary France**
+❖ **The Nelson Hackett Project**
 ❖ **Remains // An Archive**
+❖ **(Un)Silencing Slavery**
 
 Moderator: **Alex Gil**
 
@@ -115,8 +115,8 @@ Reflections on slavery, data, ethics, and reparations and the conversations of t
 
 **Nadejda Webb**
 ❖ **Alexandre White**
-❖ **Alex Gil**
 ❖ **Jessica Marie Johnson**
+❖ **Alex Gil**
 
 Moderator: **Audience**
 
