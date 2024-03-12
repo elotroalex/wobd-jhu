@@ -237,6 +237,22 @@ This is the thing. Working in the context of Britain, so many archives that have
 
 <br>
 
+## Essah Díaz
+
+<span class="byline">University of Puerto Rico, Río Piedras ❖ Registro Project (Taller Entre Aguas)</span>
+
+## Daniel Morales-Armstrong
+
+<span class="byline">University of Pennsylvania Registro Project (Taller Entre Aguas)</span>
+
+**What role do universities and large funders play in supporting, stewarding, maintaining, or circumventing who owns Black data?** 
+
+Universities play a dual role in supporting Black data due to their structural advantages and access to resources, including historical documents and trained scholars. However, challenges arise as the maintenance of collections may be obscured by university politics or departmental changes. Funders like Mellon are currently showing interest in supporting marginalized topics, but concerns have been made regarding the potential change in leadership and long-term sustainability of Black data. Personal and private collections outside universities also hold significance in preserving Black data. While universities contribute both positively and negatively, attention to dynamic projects and sustainability is an essential area of growth. In terms of stewarding and maintaining Black data, the development of courses, training, and support provided by universities and funders is critical. Black scholars have engaged with records in archives and typically find that many collections lack proper descriptions, categorizations, and visibility. The training and support provided should not be limited to global North or European data, but should encompass diverse perspectives and experiences, emphasizing inclusivity in handling Black data. Additionally, universities and large funders can demonstrate their commitments to Black data by proactively funding sustainable, long-term projects through funding initiatives directly targeting gaps in the stewardship of Black data. For example, universities can dedicate multi-year funding to the acquisition and digitization of Black data collections, and large funders can craft giving campaigns around in the arena, incentivizing would-be and current grantees to thoughtfully and ethically engage in Black data projects. 
+
+**What further implications should we consider when data about Black people, particularly enslaved people, is commodified, monetized or used as leverage within current regimes of private property?**
+
+The ethical dimensions surrounding the commodification of Black data, particularly that of enslaved individuals, raise numerous concerns. The unequal approach to information retrieval is evident, especially when teams handling the recovery and reclamation of Black data lack diversity. Monetizing Black data, which is already challenging to access, poses ethical questions, particularly when contrasting with the free accessibility of certain white European  data collections and perspectives. More issues arise when institutions attempt to charge for access to Black data, considering the challenges faced in the current socio-political climate, with debates over Critical Race Theory and the banning of books. Reclaiming historical injustices requires thoughtful regulation, ensuring that information is not exploited for profit and that equitable access is provided in the digitization of and public access granted to Black data collections. Emphasizing community involvement, training, and education is key to counteract appropriation of data and to rectify historical wrongs. For example, the practice of adding contextual notes in collection descriptions - about the biased and harmful language used in the sources when describing enslaved individuals - can be a method of ethical stewardship of Black data collections. The quest for reparations also involves sharing information, training communities, and challenging dependency on traditional preservers, advocating for a more inclusive and just approach to Black data.
+
 ---
 
 <br>
