@@ -38,9 +38,9 @@ Lunch for Invited Project Teams (sponsored by the **Diasporas Solidarities Lab**
 
 Break/Dinner on your own
 
-#### 6:00pm--8:00pm
+#### 7:00pm--9:00pm
 
-❖ Location: Martin D. Jenkins Hall, Room 100 ❖
+❖ Location: 4200 Hillen Rd. Baltimore, MD 21218 ❖
 
 African Diaspora Film Screening with Filmmakers ❖ Hosted by **African Diaspora Alliance** ❖ **Elu Omelora**, CoFounder of The African Diaspora Alliance ❖
 **Moriah Ray**, CoFounder of The African Diaspora Alliance ❖
@@ -157,3 +157,7 @@ Moderator: **Nadejda Webb**
 <p class="panel-name">Bomba Workshop</p>
 
 Bombazo hosted by **Semilla Cultural**, a non-profit organization developing and cultivating a community that embraces Puerto Rican culture and arts in Washington DC, Maryland, and Virgina region. We focus on raising cultural awareness by teaching and performing the Puerto Rican musical genres of Bomba and Plena, as well as educating the community as to the histoircal events that shaped this music. More information can be found [here](https://semillacultural.org/#about-section).
+
+## COVID Protocols
+
+**Please abide by COVID protocols and enjoy our VIRTUAL experience if you are feeling ill or test negative!** We will require masks be worn for the duration of all events; masks will be provided if you forget your own.
