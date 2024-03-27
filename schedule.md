@@ -76,8 +76,7 @@ Welcome x Coffee/Breakfast
 ❖ **The Criadas Project (Taller Entre Aguas)**
 ❖ **Early Caribbean Digital Archive**
 ❖ **Keywords for Black Louisiana**
-❖ **Texas Domestic Slave Trade Project**
-❖ **Smallpox and Slavery in the Early Modern Atlantic World: A Digital History**
+❖ **(Un)Silencing Slavery**
 
 Moderator: **Alexandre White**
 
@@ -95,7 +94,8 @@ BREAK
 ❖ **Haitian Revolutionary France**
 ❖ **The Nelson Hackett Project**
 ❖ **Remains // An Archive**
-❖ **(Un)Silencing Slavery**
+❖ **The Registro Project (Taller Entre Aguas)**
+
 
 Moderator: **Alex Gil**
 
@@ -111,7 +111,7 @@ Catered Lunch for participants ❖ **Blacksauce Kitchen** ❖ Sponsored by the *
 ❖ **Black Louisiana History Incubators**
 ❖ **Colored Conventions Project**
 ❖ **Kinfolkology**
-❖ **The Registro Project (Taller Entre Aguas)**
+❖ **Smallpox and Slavery in the Early Modern Atlantic World: A Digital History**
 ❖ **The Texas Freedom Colonies Project**
 ❖ **Underwriting Souls**
 
