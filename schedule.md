@@ -40,7 +40,7 @@ Break/Dinner on your own
 
 #### 7:00pm--9:00pm
 
-❖ Location: 4200 Hillen Rd. Baltimore, MD 21218 ❖
+❖ Location: Business Center Auditorium, 4200 Hillen Rd. Baltimore, MD 21218 ❖
 
 African Diaspora Film Screening with Filmmakers ❖ Hosted by **African Diaspora Alliance** ❖ **Elu Omelora**, CoFounder of The African Diaspora Alliance ❖
 **Moriah Ray**, CoFounder of The African Diaspora Alliance ❖
