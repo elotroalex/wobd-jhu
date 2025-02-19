@@ -11,7 +11,7 @@ author: "Alex Gil"
 email: colibri.alex@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A conference series on stewarding the historical and cultural record of Black life in the Americas.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/inaugural" # the subpath of your site, e.g. /blog
 url: "https://wobd.blackbeyonddata.org" # the base hostname & protocol for your site
 twitter_username: elotroalex
 github_username: elotroalex
